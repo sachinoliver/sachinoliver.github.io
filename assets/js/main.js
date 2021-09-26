@@ -12,7 +12,7 @@
   });
 
   particlesJS.load('particles-js', 'particlesjs.json');
-  });
+  })
   /**
    * Easy selector helper function
    */
